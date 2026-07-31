@@ -1,4 +1,4 @@
-# Hi, I'm Jane
+# Jane Ologhadien
 
 Cloud & Infrastructure Engineer, AZ-104 candidate, working toward AZ-500. I build and document Azure projects end to end - real resources, genuine free-tier constraints, and the actual obstacles encountered along the way rather than a curated success-only trail.
 
