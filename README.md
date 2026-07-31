@@ -1,4 +1,4 @@
-# Jane Ologhadien
+# Jane 
 
 Systems Administrator with 4+ years of hands-on infrastructure experience, now building toward Cloud & Infrastructure Engineering. AZ-104 candidate, working toward AZ-500.
 
