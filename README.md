@@ -2,7 +2,6 @@
 
 Systems Administrator with 4+ years of hands-on infrastructure experience, now building toward Cloud & Infrastructure Engineering. AZ-104 candidate, working toward AZ-500.
 
-[LinkedIn](https://www.linkedin.com/in/jane-ologhadien-5b03ba12b)
 
 I build and document Azure projects end to end - real resources, genuine free-tier constraints, and the actual obstacles encountered along the way rather than a curated success-only trail. Every project below includes a full architecture writeup, a reproducible setup guide, and screenshot evidence of it actually working.
 
