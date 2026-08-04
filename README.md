@@ -1,9 +1,10 @@
 # Jane 
 
-Systems Administrator with 4+ years of hands-on infrastructure experience, now building toward Cloud & Infrastructure Engineering. AZ-104 candidate, working toward AZ-500.
+Systems Administrator | Cloud Infrastructure & Data Engineer
 
+4+ years of hands-on experience across systems administration, cloud infrastructure, and data engineering, with a strong foundation in both operational reliability and structured data management.
 
-I build and document Azure projects end to end - real resources, genuine free-tier constraints, and the actual obstacles encountered along the way rather than a curated success-only trail. Every project below includes a full architecture writeup, a reproducible setup guide, and screenshot evidence of it actually working.
+I build and document end-to-end projects across cloud platforms and database environments: real deployments, genuine constraints, and honest writeups of what broke and how it was fixed. Every project includes a full architecture writeup, a reproducible setup guide, and working evidence.
 
 ## Cloud & Infrastructure (Azure)
 
